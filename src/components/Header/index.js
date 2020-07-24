@@ -5,7 +5,7 @@ import { Container } from "./styles";
 function Header() {
   return (
     <Container>
-      <h1>pipefy</h1>
+      <h1>Task Manager</h1>
     </Container>
   );
 }
