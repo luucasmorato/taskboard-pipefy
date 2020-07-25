@@ -5,7 +5,7 @@ import { Container } from "./styles";
 function Header() {
   return (
     <Container>
-      <h1>Task Manager</h1>
+      <h2>Task Manager</h2>
     </Container>
   );
 }
